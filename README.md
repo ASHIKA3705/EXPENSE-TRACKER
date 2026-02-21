@@ -1,27 +1,41 @@
-# Enhanced Expense Tracker
+# Expense Tracker Web App
 
-A responsive Expense Tracker web application built using HTML, CSS and JavaScript.
+A responsive web-based Expense Tracker application developed using HTML, CSS, and JavaScript.
 
-This is an enhanced version of a basic expense tracker with improved UI and additional features.
+This project is an enhanced version of a basic expense tracker with improved user interface design and better layout structure.
 
 ## Features
 
-- Add Income and Expense
-- Delete Transactions
-- Filter by Transaction Type
-- Category Selection
-- Responsive Design
+- Add Income and Expense transactions
+- Delete transactions
+- Automatic calculation of:
+  - Total Income
+  - Total Expense
+  - Balance
+- Clean and modern UI design
+- Responsive layout for better usability
 
 ## Technologies Used
 
-- HTML
-- CSS
-- JavaScript
-- Bootstrap 5
+- HTML5
+- CSS3
+- JavaScript 
 
 ## Enhancement Details
 
-- Improved UI styling
-- Added filtering option
-- Added category selection
-- Enhanced layout and responsiveness
+This project enhances the basic expense tracker by:
+
+- Improving the overall UI styling
+- Adding summary cards for income, expense, and balance
+- Designing a cleaner and more structured layout
+- Enhancing user interaction with real-time updates
+
+## How to Use
+
+1. Enter the amount.
+2. Select transaction type (Income or Expense).
+3. Add description and date.
+4. Click **Add**.
+5. View updated summary instantly.
+6. Click **Delete** to remove any transaction.
+
