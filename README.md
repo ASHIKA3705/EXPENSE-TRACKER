@@ -39,3 +39,4 @@ This project enhances the basic expense tracker by:
 5. View updated summary instantly.
 6. Click **Delete** to remove any transaction.
 
+
